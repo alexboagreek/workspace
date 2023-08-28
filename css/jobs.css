@@ -1,0 +1,17 @@
+.jobs {
+  padding: 50px 0;
+}
+
+.jobs__container {
+  display: flex;
+  align-items: start;
+  gap: 24px 20px;
+}
+
+.jobs__filter-btn {
+  display: none;
+}
+
+.jobs__filter {
+  flex: 0 0 280px;
+}
