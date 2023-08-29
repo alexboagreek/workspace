@@ -15,3 +15,7 @@
 .jobs__filter {
   flex: 0 0 280px;
 }
+
+.legend__text {
+  margin-bottom: 13px;
+}
